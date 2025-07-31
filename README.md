@@ -1,7 +1,7 @@
 ![Enrique Davalos](https://raw.githubusercontent.com/EnriqueDavalos1949/EnriqueDavalos1949/refs/heads/main/Resources/Jes%C3%BAs%20Enrique%20D%C3%A1valos%20Guti%C3%A9rrez.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
-<h2 align="center">¡WELCOME TO MY PROFILE!</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='300' align="center"/>
+<h2 align="left">Hi there, I´m Enrique Dávalos! 👋</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -36,18 +36,33 @@
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+<table >
+  <tr>
+    <td>
+
+### 👨‍💻 Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=python,c,javascript,html,php,r&perline=3)](https://skillicons.dev)
 
-### 🧰 Frameworks and Libraries
-
+### 🧰 Frameworks and Libraries  
 [![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,bootstrap)](https://skillicons.dev)
 
-### 🗄️ Databases
+### 🗄️ Databases  
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-### 💻 Software and Tools
+
+### 💻 Software and Tools  
 [![My Skills](https://skillicons.dev/icons?i=autocad,ubuntu,windows,git,grafana,raspberrypi,stackoverflow,vscode&perline=4)](https://skillicons.dev)
-##  🤝 My Certifications & Courses
+
+  </td>
+  <td>
+    <img 					src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
+ alt="coding gif" width="800" />
+  </td>
+  
+</tr>
+</table>
+	
+
+##  🪪  My Certifications & Courses
 ### 	Machine Learning With Python - IBM Cognitive Class (2025) ✅
 <p align="left">
 <a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank" style="margin-right: 15px;">
