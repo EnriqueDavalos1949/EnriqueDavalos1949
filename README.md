@@ -4,7 +4,7 @@
 <h2 align="center">¡WELCOME TO MY PROFILE!</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,mysql,python,r,sklearn,c,grafana" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 <!-- ## 👋 &nbsp;Hey there! I'm Enrique Dávalos -->
@@ -33,3 +33,23 @@
 
 
 📄 &nbsp;Please have a look at my [CV](https://github.com/EnriqueDavalos1949/EnriqueDavalos1949/blob/main/Resources/CV%20Enrique%20D%C3%A1valos%20-%20EN.pdf) for more details about me. I'm open to feedback and suggestions!
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c,javascript,html,php,r&perline=3)](https://skillicons.dev)
+
+### 🧰 Frameworks and Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,bootstrap)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+### 💻 Software and Tools
+[![My Skills](https://skillicons.dev/icons?i=autocad,ubuntu,windows,git,grafana,raspberrypi,stackoverflow,vscode&perline=4)](https://skillicons.dev)
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:edavalos0903gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/jes%C3%BAs-enrique-d%C3%A1valos-guti%C3%A9rrez-bb5b7928b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
