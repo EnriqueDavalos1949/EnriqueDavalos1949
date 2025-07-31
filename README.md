@@ -1,6 +1,6 @@
 ![Aditya Kanoi Banner](https://github.com/EnriqueDavalos1949/EnriqueDavalos1949/blob/main/Resources/Jesus%20Enrique%20Davalos%20gutierrez.png?raw=true)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
 <h2 align="center">¡WELCOME TO MY PROFILE!</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,4 +32,4 @@
 </div>
 
 
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://github.com/EnriqueDavalos1949/EnriqueDavalos1949/blob/main/Resources/CV%20Enrique%20D%C3%A1valos%20-%20EN.pdf) for more details about me. I'm open to feedback and suggestions!
