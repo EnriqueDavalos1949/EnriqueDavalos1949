@@ -1,12 +1,9 @@
 ![Enrique Davalos](https://raw.githubusercontent.com/EnriqueDavalos1949/EnriqueDavalos1949/refs/heads/main/Resources/Jes%C3%BAs%20Enrique%20D%C3%A1valos%20Guti%C3%A9rrez.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='300' align="center"/>
-<h2 align="left">Hi there, I´m Enrique Dávalos! 👋</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<h2
+	align="left">Hi there, I´m Enrique Dávalos! 👋
+</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Enrique Dávalos -->
 
 ### 👨🏻‍💻 &nbsp;About Me
