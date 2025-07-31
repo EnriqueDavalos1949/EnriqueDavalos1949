@@ -47,6 +47,23 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 ### 💻 Software and Tools
 [![My Skills](https://skillicons.dev/icons?i=autocad,ubuntu,windows,git,grafana,raspberrypi,stackoverflow,vscode&perline=4)](https://skillicons.dev)
+## 🤝 My Certifications & Courses
+
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <a href="https://courses.cognitiveclass.ai/certificates/your-certificate-id-1" target="_blank" 
+       style="background-color: #007bff; color: #fff; padding: 10px 16px; text-decoration: none; border-radius: 5px; margin-right: 15px;">
+      View Credential
+    </a>
+    <span style="font-size: 18px; color: #333;">✅ Python for Data Science – IBM Cognitive Class (2025)</span>
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank" 
+       style="background-color: #007bff; color: #fff; padding: 10px 16px; text-decoration: none; border-radius: 5px; margin-right: 15px;">
+      View Credential
+    </a>
+    <span style="font-size: 18px; color: #333;">✅ Machine Learning with Python – IBM Cognitive Class (2025)</span>
+  </div>
 
 ## 🤝 Connect with me
 <p align="center">
