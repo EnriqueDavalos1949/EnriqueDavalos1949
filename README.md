@@ -47,22 +47,15 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 ### 💻 Software and Tools
 [![My Skills](https://skillicons.dev/icons?i=autocad,ubuntu,windows,git,grafana,raspberrypi,stackoverflow,vscode&perline=4)](https://skillicons.dev)
-## 🤝 My Certifications & Courses
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank" 
-       style="background-color: #007bff; color: #fff; padding: 10px 16px; text-decoration: none; border-radius: 5px; margin-right: 15px;">
-      View Credential
-    </a>
-    <span style="font-size: 18px; color: #333;">✅ Machine Learning with Python – IBM Cognitive Class (2025)</span>
-  </div>
-  
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <a href="https://www.credly.com/badges/b73ebcba-c3e2-4d0e-a8fa-e8891b509fcc" target="_blank" 
-       style="background-color: #007bff; color: #fff; padding: 10px 16px; text-decoration: none; border-radius: 5px; margin-right: 15px;">
-      View Credential
-    </a>
-    <span style="font-size: 18px; color: #333;">✅ Python for Data Science – IBM Cognitive Class (2025)</span>
-  </div>
+##  🤝 My Certifications & Courses
+### 	Machine Learning With Python - IBM Cognitive Class (2025) ✅
+  <a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fbadge_1534225&psig=AOvVaw0cT3Staa7vT3TUZ1-0IRWq&ust=1754075861526000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjYiPnn544DFQAAAAAdAAAAABAE" />
+  </a>
+###     Python for Data Science - IBM Cognitive Class (2025) ✅ 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
 ## 🤝 Connect with me
 <p align="center">
