@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/EnriqueDavalos1949/EnriqueDavalos1949/blob/main/Resources/Jesus%20Enrique%20Davalos%20gutierrez.png?raw=true)
+![Enrique Davalos](https://raw.githubusercontent.com/EnriqueDavalos1949/EnriqueDavalos1949/refs/heads/main/Resources/Jes%C3%BAs%20Enrique%20D%C3%A1valos%20Guti%C3%A9rrez.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
 <h2 align="center">¡WELCOME TO MY PROFILE!</h2>
@@ -49,13 +49,21 @@
 [![My Skills](https://skillicons.dev/icons?i=autocad,ubuntu,windows,git,grafana,raspberrypi,stackoverflow,vscode&perline=4)](https://skillicons.dev)
 ##  🤝 My Certifications & Courses
 ### 	Machine Learning With Python - IBM Cognitive Class (2025) ✅
-  <a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fbadge_1534225&psig=AOvVaw0cT3Staa7vT3TUZ1-0IRWq&ust=1754075861526000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjYiPnn544DFQAAAAAdAAAAABAE" />
-  </a>
+<p align="left">
+<a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank" style="margin-right: 15px;">
+  	<img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
+	alt="Certification Badge" style="width: 50px; height: 50px;">
+</a>
+</p>
+
 ###     Python for Data Science - IBM Cognitive Class (2025) ✅ 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+
+<p align="left">
+<a href="https://www.credly.com/badges/b73ebcba-c3e2-4d0e-a8fa-e8891b509fcc" target="_blank" style="margin-right: 15px;">
+  	<img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
+	alt="Certification Badge" style="width: 50px; height: 50px;">
+</a>
+</p>
 
 ## 🤝 Connect with me
 <p align="center">
