@@ -11,11 +11,25 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+  <p>👨‍💻 &nbsp;<strong>I am a professional with a background in Biomedical Engineering</strong>, specialized in data analysis and business intelligence tools such as Power BI.</p>
+
+  <p>💡 &nbsp;I am passionate about applying technology to solve complex problems, extract value from data, and support evidence-based decision-making.</p>
+
+  <p>🎓 &nbsp;<strong>Graduate of the Polytechnic University of Sinaloa</strong>, I have complemented my education with international certifications in data science and programming.</p>
+
+  <p>🛰️ &nbsp;I collaborated with the <strong>Mexican Space Agency</strong> on the development of telemetry systems, PCB design, and embedded communication technologies such as LoRa.</p>
+
+  <p>📜 &nbsp;<strong>I hold official IBM certifications in:</strong><br>
+  - Python for Data Science<br>
+  - Machine Learning with Python</p>
+
+  <p>🌱 &nbsp;I am currently strengthening my skills in machine learning, SQL, advanced data visualization, and Python-based solution development.</p>
+
+  <p>💬 &nbsp;I am open to collaborating on technology projects, innovation initiatives, or exchanging ideas about data science and applied engineering.</p>
+
+  <p>✉️ &nbsp;Feel free to contact me at: <strong>edavalos0903@gmail.com</strong>. I would be happy to connect with you.</p>
+</div>
+
+
 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
