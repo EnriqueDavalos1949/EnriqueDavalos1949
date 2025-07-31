@@ -1,10 +1,8 @@
 ![Enrique Davalos](https://raw.githubusercontent.com/EnriqueDavalos1949/EnriqueDavalos1949/refs/heads/main/Resources/Jes%C3%BAs%20Enrique%20D%C3%A1valos%20Guti%C3%A9rrez.png)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='300' align="center"/>
-<h2
-	align="left">Hi there, I´m Enrique Dávalos! 👋
-</h2>
+<p>
+<h2 align="left"> 👋 &nbsp; Hi there, I´m Enrique Dávalos!</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Enrique Dávalos -->
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -59,23 +57,37 @@
 </table>
 	
 
-##  🪪  My Certifications & Courses
-### 	Machine Learning With Python - IBM Cognitive Class (2025) ✅
-<p align="left">
-<a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank" style="margin-right: 15px;">
-  	<img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
-	alt="Certification Badge" style="width: 50px; height: 50px;">
-</a>
-</p>
+## 🪪 My Certifications & Courses
 
-###     Python for Data Science - IBM Cognitive Class (2025) ✅ 
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <!-- Columna izquierda: certificaciones -->
+    <td style="width: 70%; vertical-align: top; padding-right: 20px;">
 
-<p align="left">
-<a href="https://www.credly.com/badges/b73ebcba-c3e2-4d0e-a8fa-e8891b509fcc" target="_blank" style="margin-right: 15px;">
-  	<img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
-	alt="Certification Badge" style="width: 50px; height: 50px;">
+### ✅ Machine Learning with Python – IBM Cognitive Class (2025)
+<a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank">
+  <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
+       alt="Certification Badge" style="width: 50px; height: 50px;">
 </a>
-</p>
+
+<br><br>
+
+### ✅ Python for Data Science – IBM Cognitive Class (2025)
+<a href="https://www.credly.com/badges/b73ebcba-c3e2-4d0e-a8fa-e8891b509fcc" target="_blank">
+  <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
+       alt="Certification Badge" style="width: 50px; height: 50px;">
+</a>
+
+</td>
+
+<!-- Columna derecha: GIF -->
+<td style="vertical-align: top; text-align: center;">
+<img src="https://blog.growthinstitute.com/hubfs/untitled-4.gif" 
+   alt="Learning GIF" width="450">
+</td>
+  </tr>
+</table>
+
 
 ## 🤝 Connect with me
 <p align="center">
