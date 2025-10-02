@@ -26,8 +26,38 @@
   <p>✉️ &nbsp;Feel free to contact me at: <strong>edavalos0903@gmail.com</strong>. I would be happy to connect with you.</p>
 </div>
 
-
 📄 &nbsp;Please have a look at my [CV](https://github.com/EnriqueDavalos1949/EnriqueDavalos1949/blob/main/Resources/CV%20Enrique%20D%C3%A1valos%20-%20EN.pdf) for more details about me. I'm open to feedback and suggestions!
+
+### 🧠 &nbsp; Vestibular System Project (Spatial Adaptation Syndrome - SAS)
+<ul>
+  <li>🎯 <strong>Objective:</strong> Detect nystagmus and mitigate dizziness symptoms using vestibular galvanic stimulation (EGV).</li>
+
+  <li>⚙️ <strong>Control Stage:</strong> 
+    <ul>
+      <li>Custom acquisition circuit using AD620 amplifiers, analog band-pass filters, and ADS1115 ADC.</li>
+      <li>Signal processing on Raspberry Pi 4 with Python algorithms, adapting Pan-Tompkins for real-time nystagmus detection.</li>
+    </ul>
+  </li>
+
+  <li>⚡ <strong>Stimulation Stage:</strong>
+    <ul>
+      <li>Modified TENS device applying 40 Hz, 3 mA currents to the mastoid processes.</li>
+      <li>Goal: Stabilize vestibular function and reduce dizziness-related symptoms.</li>
+    </ul>
+  </li>
+
+  <li>📊 <strong>Results:</strong> 
+    <ul>
+      <li>Nystagmus detection accuracy &gt;85%.</li>
+      <li>Reduction of post-dizziness recovery time by 65%.</li>
+      <li>Decrease in nausea, dizziness, and balance loss.</li>
+    </ul>
+  </li>
+
+  <li>🌌 <strong>Impact:</strong> Potential application for astronaut health in microgravity, linking biomedical engineering, neurostimulation, and space exploration.</li>
+
+  <li>📚 <strong>Theoretical Framework:</strong> <a href="https://github.com/EnriqueDavalos1949/EnriqueDavalos1949/blob/main/Resources/Marco%20teorico.pdf" target="_blank">Click here to access the theoretical framework of the project</a>.</li>
+</ul>
 
 ## 🛠️ My Favorite Tools
 
