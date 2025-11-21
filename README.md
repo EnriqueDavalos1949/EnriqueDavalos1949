@@ -108,6 +108,12 @@
        alt="Certification Badge" style="width: 50px; height: 50px;">
 </a>
 
+### ✅ SQL (Advanced) – HackerRank (2025)
+<a href="https://www.hackerrank.com/certificates/iframe/c6fcc038623f" target="_blank">
+  <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
+       alt="Certification Badge" style="width: 50px; height: 50px;">
+</a>
+
 </td>
 
 <!-- Columna derecha: GIF -->
