@@ -94,7 +94,7 @@
     <!-- Columna izquierda: certificaciones -->
     <td style="width: 70%; vertical-align: top; padding-right: 20px;">
 
-### ✅ Machine Learning with Python – IBM Cognitive Class (2025)
+### ✅ Machine Learning with Python – IBM Cognitive Class
 <a href="https://www.credly.com/badges/1a35705e-4991-4f6e-bf7f-0bd0a74c686a" target="_blank">
   <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
        alt="Certification Badge" style="width: 50px; height: 50px;">
@@ -102,25 +102,25 @@
 
 <br><br>
 
-### ✅ Python for Data Science – IBM Cognitive Class (2025)
+### ✅ Python for Data Science – IBM Cognitive Class
 <a href="https://www.credly.com/badges/b73ebcba-c3e2-4d0e-a8fa-e8891b509fcc" target="_blank">
   <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
        alt="Certification Badge" style="width: 50px; height: 50px;">
 </a>
 
-### ✅ Python (Basic) – HackerRank (2025)
+### ✅ Python (Basic) – HackerRank
 <a href="https://www.hackerrank.com/certificates/iframe/c6fcc038623f" target="_blank">
   <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
        alt="Certification Badge" style="width: 50px; height: 50px;">
 </a>
 
-### ✅ SQL (Basic) – HackerRank (2025)
+### ✅ SQL (Basic) – HackerRank
 <a href="https://www.hackerrank.com/certificates/iframe/5c160102413b" target="_blank">
   <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
        alt="Certification Badge" style="width: 50px; height: 50px;">
 </a>
 
-### ✅ SQL (Advanced) – HackerRank (2025)
+### ✅ SQL (Advanced) – HackerRank
 <a href="https://www.hackerrank.com/certificates/iframe/130a12839243" target="_blank">
   <img src="https://www.svgrepo.com/show/92178/certification-file.svg" 
        alt="Certification Badge" style="width: 50px; height: 50px;">
